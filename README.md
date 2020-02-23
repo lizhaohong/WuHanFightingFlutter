@@ -7,21 +7,21 @@
 
 ## App效果图
 
-![](https://github.com/lizhaohong/WuHanFightingFlutter/blob/master/assets/display/Simulator Screen Shot - iPhone 11 Pro Max - 2020-02-23 at 12.26.32.png)
+![](https://github.com/lizhaohong/WuHanFightingFlutter/blob/master/assets/display/picture1.png)
 
-![](https://github.com/lizhaohong/WuHanFightingFlutter/blob/master/assets/display/Simulator Screen Shot - iPhone 11 Pro Max - 2020-02-23 at 12.33.12.png)
+![](https://github.com/lizhaohong/WuHanFightingFlutter/blob/master/assets/display/picture2.png)
 
-![](https://github.com/lizhaohong/WuHanFightingFlutter/blob/master/assets/display/Simulator Screen Shot - iPhone 11 Pro Max - 2020-02-23 at 12.33.30.png)
+![](https://github.com/lizhaohong/WuHanFightingFlutter/blob/master/assets/display/picture3.png)
 
-![](https://github.com/lizhaohong/WuHanFightingFlutter/blob/master/assets/display/Simulator Screen Shot - iPhone 11 Pro Max - 2020-02-23 at 12.33.38.png)
+![](https://github.com/lizhaohong/WuHanFightingFlutter/blob/master/assets/display/picture4.png)
 
-![](https://github.com/lizhaohong/WuHanFightingFlutter/blob/master/assets/display/Simulator Screen Shot - iPhone 11 Pro Max - 2020-02-23 at 12.33.45.png)
+![](https://github.com/lizhaohong/WuHanFightingFlutter/blob/master/assets/display/picture5.png)
 
-![](https://github.com/lizhaohong/WuHanFightingFlutter/blob/master/assets/display/Simulator Screen Shot - iPhone 11 Pro Max - 2020-02-23 at 12.33.48.png)
+![](https://github.com/lizhaohong/WuHanFightingFlutter/blob/master/assets/display/picture6.png)
 
-![](https://github.com/lizhaohong/WuHanFightingFlutter/blob/master/assets/display/Simulator Screen Shot - iPhone 11 Pro Max - 2020-02-23 at 12.33.52.png)
+![](https://github.com/lizhaohong/WuHanFightingFlutter/blob/master/assets/display/picture7.png)
 
-![](https://github.com/lizhaohong/WuHanFightingFlutter/blob/master/assets/display/Simulator Screen Shot - iPhone 11 Pro Max - 2020-02-23 at 12.33.59.png)
+![](https://github.com/lizhaohong/WuHanFightingFlutter/blob/master/assets/display/picture8.png)
 
 ## 使用须知
 在pubspec.yaml文件中，关于flutter版本使用cached_network_image插件问题，默认使用2.0.0(Flutter1.12.13+)
