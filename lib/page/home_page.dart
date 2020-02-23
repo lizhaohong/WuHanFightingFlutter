@@ -39,6 +39,13 @@ class _HomePageState extends State <HomePage> with AutomaticKeepAliveClientMixin
   @override
   bool get wantKeepAlive => true;
 
+  @override
+  void initState() {
+    super.initState();
+
+    getData();
+  }
+
   _refreshData() {
     getData();
   }
@@ -56,13 +63,4 @@ class _HomePageState extends State <HomePage> with AutomaticKeepAliveClientMixin
       });
     });
   }
-
-  @override
-  void initState() {
-    super.initState();
-
-    getData();
-  }
-
-
 }

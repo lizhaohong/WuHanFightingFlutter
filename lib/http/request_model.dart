@@ -85,7 +85,7 @@ class RequestModel {
     }
   }
 
-  Future _handleError(String url, int statusCode, String statusMessage, {Error error}) {
+  Future _handleError(String url, int statusCode, String statusMessage, {DioError error}) {
     Map errorMap = {
       "statusCode" : statusCode,
       "statusMessage" : statusMessage,

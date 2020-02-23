@@ -16,7 +16,7 @@ class ProtectPage extends StatefulWidget {
   State createState() => _ProtectPageState();
 }
 
-class _ProtectPageState extends State <ProtectPage> {
+class _ProtectPageState extends State <ProtectPage> with AutomaticKeepAliveClientMixin {
 
   List provinceData = List();
 
@@ -48,6 +48,9 @@ class _ProtectPageState extends State <ProtectPage> {
 
     onRefresh();
   }
+
+  @override
+  bool get wantKeepAlive => true;
 
   onRefresh(){
     Future.delayed(Duration(seconds: 2), (){

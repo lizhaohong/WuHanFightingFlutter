@@ -59,7 +59,7 @@ class _RootPageState extends State <RootPage> {
            ),
          ),
          onPressed: (){
-           launch("http://www.baidu.com");
+           launch("https://github.com/lizhaohong/WuHanFightingFlutter");
          },
        )
       ]),

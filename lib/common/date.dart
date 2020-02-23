@@ -63,7 +63,7 @@ String formatTimeStampToString(timestamp, [format]) {
   return dateFormat.format(date);
 }
 
-String timeHandle(int time) {
+String timeHandle(var time) {
   double createTimeDouble = strNoEmpty('$time') ? time / 1000 : 0;
   String data = stringDisposeWithDouble(createTimeDouble);
   int createTime = int.parse(data);
